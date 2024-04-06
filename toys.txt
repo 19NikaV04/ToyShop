@@ -1,0 +1,10 @@
+Id = 1; Name = Car; Winner = Nika
+Id = 1; Name = Car; Winner = Ksenia
+Id = 2; Name = Doll; Winner = Nikita
+Id = 3; Name = Teddy bear; Winner = Ksenia
+Id = 3; Name = Teddy bear; Winner = Artem
+Id = 4; Name = Ball; Winner = Nikita
+Id = 4; Name = Ball; Winner = Nika
+Id = 4; Name = Ball; Winner = Michael
+Id = 5; Name = Wooden cubes; Winner = Artem
+Id = 6; Name = Domino; Winner = Michael
